@@ -1,0 +1,14 @@
+transformers
+datasets
+evaluate
+peft
+accelerate
+trl
+bitsandbytes
+einops
+flash_attn
+xformers==0.0.28.post1
+wandb
+gradio
+sentencepiece
+python-dotenv
